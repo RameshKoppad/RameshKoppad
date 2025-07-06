@@ -19,7 +19,7 @@ I'm a passionate **Generative AI Engineer** with strong roots in **Prompt Engine
 
 ---
 
-🧠 **My Tech Stack**  
+### 🧠 My Tech Stack
 
 **Core AI & ML**  
 - `GenerativeAI`, `Advanced Prompt Engineering`, `LLM Prompting`, `Meta-Prompting`, `Prompt Chaining`, `Retrieval Augmented Generation(RAG)`, `LangChain`, `Vector Databases(VDBs)`
@@ -44,17 +44,7 @@ I'm a passionate **Generative AI Engineer** with strong roots in **Prompt Engine
 
 ---
 
-### Skills
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" height="36" alt="Sublime Text" title="Sublime Text"/></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" width="36" height="36" alt="XCode" title="XCode"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" title="Fast API"/></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" title="Flask"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" title="MacOS"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
-</p>
-
----
-
-**PROFESSIONAL EXPERIENCE**
+### PROFESSIONAL EXPERIENCE
 
 **Freelancer | Language Model Trainer, LLM Evaluator, Prompt Engineer** - 
 June 2024 – Present
@@ -92,19 +82,21 @@ Skills: PyTorch, Generative Adversarial Networks (GANs)
 
 🎯 **Current Focus**  
 - Designing prompt chains for intelligent AI agents  
-- LLM fine-tuning, meta-evaluation, and prompt distillation  
-- Building GenAI-powered applications with LangChain & VLMs  
+- LLM fine-tuning, LLM-evaluation, and prompt optimization, refinement, distillation
+- Building GenAI-powered applications with LangChain, RAG & LLMs
+- Building AI powered agents with MCP
+- Context engineering along with prompt engineering 
 
 ---
 
-🛠️ **PROJECTS**
+### 🛠️ PROJECTS
 
 - 🔭 [**Asteroid Hazard Detection**](#): ML model to predict asteroid hazard probability using CATBoost, XGBoost  
 - 🧬 [**Malaria Parasite Detection**](#): CNN-based image classifier for malaria cells  
 
 ---
 
-📚 **CERTIFICATIONS**
+### 📚 CERTIFICATIONS
 
 - Generative AI Masters 2025 - NLP, Transformers & Gen AI!! – Udemy
 - Evaluating Generative Models: Methods, Metrics & Tools – Udemy
@@ -125,7 +117,7 @@ Skills: PyTorch, Generative Adversarial Networks (GANs)
 
 ---
 
-🎓 **EDUCATION**
+### 🎓 EDUCATION
 - 📖 **PG Diploma in Artificial Intelligence & Machine Learning**, University of Hyderabad + AppliedRoots (2021-2022) 
   CGPA = 6.0
 - 🎓 **B.E. in Computer Science and Engineering**, VDIT Haliyal (2020) - 
